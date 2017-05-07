@@ -43,6 +43,12 @@ For the 74HC126/74HC04, check the following page:
 
 - https://web.archive.org/web/20110202164651/support.robotis.com/en/product/dynamixel/dxl_ax_main.htm (archive)
 
+UART configuration
+------------------
+
+- http://www.oppedijk.com/robotics/control-dynamixel-with-raspberrypi
+- http://fw.hardijzer.nl/?p=138
+
 Additional information
 ----------------------
 
