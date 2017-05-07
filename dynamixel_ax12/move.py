@@ -23,7 +23,7 @@ import RPi.GPIO as gpio
 gpio.setmode(gpio.BCM)
 gpio.setup(18, gpio.OUT)
 
-port = serial.Serial("/dev/ttyAMA0", baudrate=1000000, timeout=3.0)
+port = serial.Serial("/dev/ttyAMA0", baudrate=57600, timeout=3.0)
 
 while True:
     gpio.output(18, gpio.HIGH)
