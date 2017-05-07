@@ -11,6 +11,11 @@ https://web.archive.org/web/20100414173935/support.robotis.com/en/product/dynami
 The chips that converts full-duplex into half-duplex are either 74HC126/74HC04
 or 74LS241.
 
+Dynamixel AX-12 documentation
+-----------------------------
+
+`Official documentation <https://web.archive.org/web/20101008170532/http://support.robotis.com/en/product/dynamixel/ax_series/dxl_ax_actuator.htm>`__ (archive).
+
 Control Dynamixel AX-12 with the 74LS241
 ----------------------------------------
 
