@@ -46,8 +46,15 @@ For the 74HC126/74HC04, check the following page:
 UART configuration
 ------------------
 
+If you want to increase the bandwidth up to 1Mbps, a special setup seems
+necessary (not tested yet):
+
 - http://www.oppedijk.com/robotics/control-dynamixel-with-raspberrypi
 - http://fw.hardijzer.nl/?p=138
+
+Otherwise, if you keep the bandwidth to 57600bps, there is nothing special to
+do (make sure you use the right Dynamixel ID and the Dynamixel bandwidth
+is properly setup to 56700bps).
 
 Additional information
 ----------------------
