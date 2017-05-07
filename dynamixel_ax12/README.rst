@@ -41,7 +41,7 @@ Control Dynamixel AX-12 with the 774HC126/74HC04
 
 For the 74HC126/74HC04, check the following page:
 
-- https://web.archive.org/web/20110202164651/support.robotis.com/en/product/dynamixel/dxl_ax_main.htm
+- https://web.archive.org/web/20110202164651/support.robotis.com/en/product/dynamixel/dxl_ax_main.htm (archive)
 
 Additional information
 ----------------------
