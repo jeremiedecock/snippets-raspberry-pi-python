@@ -23,9 +23,7 @@ EDA
 
 - Fritzing (http://fritzing.org/): create PCB layouts and diagrams
 - Autodesk Circuits (https://circuits.io/): an online EDA
-  - Main advantage over Fritzing: it can simulate an Arduino with a given
-    source code (see this `link
-    <http://hackaday.com/2013/09/11/123d-circuits-autodesks-free-design-tool/>`__)
+  - Main advantage over Fritzing: it can simulate an Arduino with a given source code (see this `link <http://hackaday.com/2013/09/11/123d-circuits-autodesks-free-design-tool/>`__)
 - Upverter (https://upverter.com/): an online EDA
 - Meowcad (https://meowcad.com/): an online EDA
 
