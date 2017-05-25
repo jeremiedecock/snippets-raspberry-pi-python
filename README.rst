@@ -18,4 +18,16 @@ See also:
 Interesting tools
 -----------------
 
-- Fritzing (http://fritzing.org/): create nice PCB layouts and diagrams
+EDA
+~~~
+
+- Fritzing (http://fritzing.org/): create PCB layouts and diagrams
+- Autodesk Circuits (https://circuits.io/): create PCB layouts and diagrams
+- Upverter (https://upverter.com/): an online EDA
+- Meowcad (https://meowcad.com/): an online EDA
+
+PCB production services
+~~~~~~~~~~~~~~~~~~~~~~~
+
+- Fritzing Fab (https://go.aisler.net/fritzing): produce PCBs out of Fritzing sketches
+- Seeed Studio Fusion (https://www.seeedstudio.com/fusion.html): produce PCBs
