@@ -30,4 +30,5 @@ PCB production services
 ~~~~~~~~~~~~~~~~~~~~~~~
 
 - Fritzing Fab (https://go.aisler.net/fritzing): produce PCBs out of Fritzing sketches
+- Autodesk Circuits (https://circuits.io/): produce PCBs designed on https://circuits.io/
 - Seeed Studio Fusion (https://www.seeedstudio.com/fusion.html): produce PCBs
