@@ -22,6 +22,10 @@ EDA
 ~~~
 
 - Fritzing (http://fritzing.org/): create PCB layouts and diagrams
+
+  - `Tutorial to create new parts <http://fritzing.org/learning/tutorials/creating-custom-parts/>`__
+  - `Comunity parts <http://forum.fritzing.org/c/parts-submit>`__
+
 - Autodesk Circuits (https://circuits.io/): an online EDA
 
   - Main advantage over Fritzing: it can simulate an Arduino with a given source code (see this `link <http://hackaday.com/2013/09/11/123d-circuits-autodesks-free-design-tool/>`__)
